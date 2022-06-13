@@ -1,0 +1,13 @@
+* toastloop nixos
+
+- Based on
+- [[https://github.com/MatthiasBenaets/nixos-config][Matthias]]
+
+- Documentation
+- [[https://nixos.org/manual/nixpkgs/stable/][NixPKGs]]
+- [[https://nixos.org/manual/nix/stable/][Nix]]
+- [[https://nixos.org/manual/nixos/stable/][NixOS]]
+
+- Links
+- [[https://nixos.org/][NixOS Website]]
+- [[https://nixos.wiki/][NixOS Wiki]]
